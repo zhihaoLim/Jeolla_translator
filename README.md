@@ -1,5 +1,5 @@
 # 📙 전라도 방언 - 표준어 번역기 📗
-
+# 🥇도랑도랑 & 🥈싸게싸게
 ## 🧍 개발자
 임지호(Jeeho Lim)
 - Tsinghua University (Beijing, China, 2014)
